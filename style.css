@@ -1,6 +1,14 @@
-background-color:aliceblue;
+background-color: aliceblue;
 button {
 border-radius: 20px;
 padding: 13px;
+background-color: cream;
 transition:3s all ease-in-out;
+border-color: beige;
+}
+button:hover {
+transform: scale(1.3);
+}
+h1, h2, h3, h4, h5, h6, p {
+color: tan;
 }
