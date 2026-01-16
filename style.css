@@ -1,0 +1,6 @@
+background-color:aliceblue;
+button {
+border-radius: 20px;
+padding: 13px;
+transition:3s all ease-in-out;
+}
